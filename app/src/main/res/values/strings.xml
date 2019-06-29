@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">OrCam Home Assignment</string>
+
+    <!--Main Activity Texts-->
+    <string name="main_start_scan">Scan</string>
+    <string name="main_stop_scan">Stop</string>
+    <string name="main_enable_bluetooth">Enable</string>
+    <string name="no_permissions">Location Permissions not granted</string>
+    <string name="allow">Allow</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_location_title">Location Not Found</string>
+    <string name="location_question">Would you like to enable location services to use Bluetooth Low Energy features?
+    </string>
+</resources>
